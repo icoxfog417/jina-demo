@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - jina
+  - pillow
+  - matplotlib
   - ipykernel
   - ipython
-
