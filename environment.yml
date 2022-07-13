@@ -1,0 +1,8 @@
+name: jina
+channels:
+  - conda-forge
+dependencies:
+  - jina
+  - ipykernel
+  - ipython
+
